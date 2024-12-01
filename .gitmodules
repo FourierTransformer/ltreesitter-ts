@@ -1,0 +1,6 @@
+[submodule "ltreesitter"]
+	path = ltreesitter
+	url = https://github.com/euclidianAce/ltreesitter.git
+[submodule "tree-sitter"]
+	path = tree-sitter
+	url = https://github.com/tree-sitter/tree-sitter
