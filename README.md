@@ -1,3 +1,5 @@
+# The [ltreesitter](https://github.com/euclidianace/ltreesitter) module now includes the tree-sitter library so this is no longer needed!
+
 # ltreesitter-ts
 This library simply combines the excellent [ltreesitter](https://github.com/euclidianace/ltreesitter) with the [tree-sitter library](https://github.com/tree-sitter/tree-sitter/tree/master/lib) code in one nice package to be easily installable via LuaRocks.
 
